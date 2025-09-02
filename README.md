@@ -53,7 +53,7 @@
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EliasObeid9-02&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-  ![GitHub Streak](https://streak-stats.demolab.com?user=EliasObeid9-02&theme=dracula&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=EliasObeid9-02&locale=en&mode=daily&theme=dracula&hide_border=true)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasObeid9-02&theme=dracula&show_icons=true&hide_border=true&layout=compact)
   
 </div>
