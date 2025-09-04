@@ -12,17 +12,13 @@
 
 <br>
 
-<p align="left">
-  - 🔭 I’m working as ...
-  <br>
-  - 📚 I'm currently learning ...
-  <br>
-  - ⚡ In my free time I ...
-</p>
+- 🔭 I’m working on finding my next opportunity. I recently completed my B.E. in Informatics Engineering with a specialization in Artificial Intelligence and am now seeking a full-time role as a Software Engineer. I am also open to pursuing higher education opportunities in AI engineering.
+- 📚 I'm currently learning to build open-source tools with Go, expanding on my experience from personal projects. I am also deepening my practical knowledge in my specialization domain of Artificial Intelligence, including concepts like NLP and Deep Learning.
+- ⚡ In my free time, I work on personal projects that interest me, such as VocaLinux. I also enjoy modifying and expanding my toolset and configuration on my Arch Linux system, a passion that complements my project work in creating useful applications.
 
 <br>
 
-<h3 align="left">🛠 Language and tools</h3>
+### Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go Logo"  />
