@@ -6,7 +6,7 @@
   [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoSize=20)](https://discord.com/users/1106229063225319567)
   [![Email](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoSize=20)](elias.obeid9.02@gmail.com)
   [![Codeforces](https://img.shields.io/badge/codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoSize=20)](https://codeforces.com/profile/Eliaster)
-  [![ICPC](https://img.shields.io/badge/icpc-F6B533?style=for-the-badge)](https://icpc.global/private/person/607242/ICPCID)
+  [![ICPC](https://img.shields.io/badge/icpc-F6B533?style=for-the-badge)](https://icpc.global/ICPCID/1WZ4KLM78DN6)
 
 </div>
 
